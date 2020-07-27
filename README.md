@@ -45,7 +45,7 @@ rpcx is a RPC framework like [Alibaba Dubbo](http://dubbo.io/) and [Weibo Motan]
 
 **rpcx 3.0** has been refactored for targets:
 1. **Simple**: easy to learn, easy to develop, easy to intergate and easy to deploy
-2. **Performance**: high perforamnce (>= grpc-go)
+2. **Performance**: high performance (>= grpc-go)
 3. **Cross-platform**: support _raw slice of bytes_, _JSON_, _Protobuf_ and _MessagePack_. Theoretically it can be used with java, php, python, c/c++, node.js, c# and other platforms
 4. **Service discovery and service governance**: support zookeeper, etcd and consul.
 
